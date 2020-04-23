@@ -10,5 +10,6 @@ A very simple notes application, created with Flutter.
 3. Запустите сборку проекта в режиме отладки
 
 P.S. Если что, то не стесняйтесь оставить issue или написать
+https://vk.com/revolution_incorp
 
 ### Удачи!
